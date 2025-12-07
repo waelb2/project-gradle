@@ -6,6 +6,10 @@ public class Matrix {
 	private int ncols;
 	private double[][] data;
 
+	private int a ;
+	private int b ;
+	private double c ;
+
 	public Matrix() {
 	}
 
